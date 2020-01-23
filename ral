@@ -1,0 +1,8 @@
+local valled = 'soepicsocool'
+local soepic = valled
+
+if game.PlaceId == 4624085830 then
+print(soepic)
+else
+local skids = game.Players.LocalPlayer
+skid:Kick('ur wrong in game ples try agian!')
